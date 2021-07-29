@@ -87,7 +87,7 @@ header .logo:hover
   left: 0;
   width: 100%;
   height: 100%;
-  background: #268bcf;
+  background: #597961;
   mix-blend-mode: overlay;
 }
 .text
@@ -110,7 +110,7 @@ header .logo:hover
 {
  letter-spacing: 2px;
  cursor: pointer;
- color: rgb(218, 74, 55);
+ color: rgb(218, 215, 55);
 }
 .text h3
 {
